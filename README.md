@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sagar B C, M Tech (ECE) student at UVCE
+- 👀 I’m very much interested in RTL Design and Analog circuit design
+- 🌱 I’m currently pursuing M Tech final year and I am working on Floating point multiplier project
+- 💞️ I’m looking to collaborate on any VLSI projects that requires RTL design.
+- 📫 Any Doubts???..... Just send a mail to sagarbc05@gmail.com....
+- Note: Only valid queries will be replied...
