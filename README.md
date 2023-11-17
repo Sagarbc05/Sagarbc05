@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sagar B C, M Tech (ECE) student at UVCE
-- 👀 I’m very much interested in RTL Design and Analog circuit design
-- 🌱 I’m currently pursuing M Tech final year and I am working on Floating point multiplier project
-- 💞️ I’m looking to collaborate on any VLSI projects that requires RTL design.
+- 👋 Hi, I’m Sagar B C, Design Verification Engineer.
+- 👀 I’m very much interested in RTL Design and Verification.
+- 🌱 I’m skilled in developing SV and UVM based CRV environments.
+- 💞️ I’m looking to collaborate on any VLSI projects that requires RTL design and verification.
 - 📫 Any Doubts???..... Just send a mail to sagarbc05@gmail.com....
 - Note: Only valid queries will be replied...
